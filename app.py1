@@ -1,0 +1,5 @@
+app.py
+requirements.txt
+templates/index.html
+static/styles.css
+static/game.js   (or your TypeScript source if you have it compiled)
